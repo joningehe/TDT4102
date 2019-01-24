@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="std_lib_facilities_mac_xcodeproj"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="std_lib_facilities_mac_xcodeproj">
+				<Option output="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/std_lib_facilities_mac_xcodeproj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/."/>
+					<Add directory="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/project.xcworkspace"/>
+					<Add directory="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/xcuserdata"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_lib_facilities_mac_xcodeproj"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="std_lib_facilities_mac_xcodeproj/fast">
+				<Option output="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/std_lib_facilities_mac_xcodeproj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/."/>
+					<Add directory="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/project.xcworkspace"/>
+					<Add directory="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/xcuserdata"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_lib_facilities_mac_xcodeproj/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jonh/OneDrive\ -\ NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/project.pbxproj">
+			<Option target="std_lib_facilities_mac_xcodeproj"/>
+		</Unit>
+		<Unit filename="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/project.xcworkspace/contents.xcworkspacedata">
+			<Option target="std_lib_facilities_mac_xcodeproj"/>
+		</Unit>
+		<Unit filename="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist">
+			<Option target="std_lib_facilities_mac_xcodeproj"/>
+		</Unit>
+		<Unit filename="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/project.xcworkspace/xcuserdata/larsmusaus.xcuserdatad/UserInterfaceState.xcuserstate">
+			<Option target="std_lib_facilities_mac_xcodeproj"/>
+		</Unit>
+		<Unit filename="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/xcuserdata/larsmusaus.xcuserdatad/xcschemes/xcschememanagement.plist">
+			<Option target="std_lib_facilities_mac_xcodeproj"/>
+		</Unit>
+		<Unit filename="/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

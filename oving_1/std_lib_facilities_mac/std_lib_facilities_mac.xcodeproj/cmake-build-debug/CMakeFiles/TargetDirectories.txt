@@ -1,0 +1,3 @@
+/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonh/OneDrive - NTNU/Skole/2019_vaar/TDT4102/ovinger/oving_1/std_lib_facilities_mac/std_lib_facilities_mac.xcodeproj/cmake-build-debug/CMakeFiles/std_lib_facilities_mac_xcodeproj.dir

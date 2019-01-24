@@ -1,0 +1,6 @@
+framework module std_lib_facilities {
+  umbrella header "std_lib_facilities.h"
+
+  export *
+  module * { export * }
+}
