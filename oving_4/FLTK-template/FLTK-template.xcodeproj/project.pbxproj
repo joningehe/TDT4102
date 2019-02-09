@@ -20,6 +20,10 @@
 		420C2FB121E25F4E0017E7FA /* fltk_zlib.framework in Copy Files */ = {isa = PBXBuildFile; fileRef = 420C2FA021E2542F0017E7FA /* fltk_zlib.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		420C2FB221E25F4E0017E7FA /* fltk.framework in Copy Files */ = {isa = PBXBuildFile; fileRef = 420C2F9C21E2542F0017E7FA /* fltk.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		420C2FB321E25F4E0017E7FA /* graphlib.framework in Copy Files */ = {isa = PBXBuildFile; fileRef = 420C2F9D21E2542F0017E7FA /* graphlib.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		7F01901F220C3F0F00888C41 /* masterVisual.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F01901D220C3F0F00888C41 /* masterVisual.cpp */; };
+		7F019027220C40B200888C41 /* utilities.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F019021220C40B100888C41 /* utilities.cpp */; };
+		7F019028220C40B200888C41 /* mastermind.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F019023220C40B100888C41 /* mastermind.cpp */; };
+		7F019029220C40B200888C41 /* tests.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F019025220C40B200888C41 /* tests.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +54,14 @@
 		420C2F9F21E2542F0017E7FA /* fltk_png.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = fltk_png.framework; path = /Library/tdt4102/fltk_png.framework; sourceTree = "<absolute>"; };
 		420C2FA021E2542F0017E7FA /* fltk_zlib.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = fltk_zlib.framework; path = /Library/tdt4102/fltk_zlib.framework; sourceTree = "<absolute>"; };
 		420C2FA121E2542F0017E7FA /* fltk_jpeg.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = fltk_jpeg.framework; path = /Library/tdt4102/fltk_jpeg.framework; sourceTree = "<absolute>"; };
+		7F01901D220C3F0F00888C41 /* masterVisual.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = masterVisual.cpp; sourceTree = "<group>"; };
+		7F01901E220C3F0F00888C41 /* masterVisual.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = masterVisual.h; sourceTree = "<group>"; };
+		7F019021220C40B100888C41 /* utilities.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = utilities.cpp; sourceTree = "<group>"; };
+		7F019022220C40B100888C41 /* utilities.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = utilities.hpp; sourceTree = "<group>"; };
+		7F019023220C40B100888C41 /* mastermind.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mastermind.cpp; sourceTree = "<group>"; };
+		7F019024220C40B200888C41 /* tests.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = tests.hpp; sourceTree = "<group>"; };
+		7F019025220C40B200888C41 /* tests.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tests.cpp; sourceTree = "<group>"; };
+		7F019026220C40B200888C41 /* mastermind.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = mastermind.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +101,14 @@
 		420C2F5121E2374F0017E7FA /* FLTK-template */ = {
 			isa = PBXGroup;
 			children = (
+				7F01901D220C3F0F00888C41 /* masterVisual.cpp */,
+				7F01901E220C3F0F00888C41 /* masterVisual.h */,
+				7F019023220C40B100888C41 /* mastermind.cpp */,
+				7F019026220C40B200888C41 /* mastermind.hpp */,
+				7F019025220C40B200888C41 /* tests.cpp */,
+				7F019024220C40B200888C41 /* tests.hpp */,
+				7F019021220C40B100888C41 /* utilities.cpp */,
+				7F019022220C40B100888C41 /* utilities.hpp */,
 				420C2F5221E2374F0017E7FA /* main.cpp */,
 			);
 			path = "FLTK-template";
@@ -163,7 +183,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F019027220C40B200888C41 /* utilities.cpp in Sources */,
 				420C2F5321E2374F0017E7FA /* main.cpp in Sources */,
+				7F01901F220C3F0F00888C41 /* masterVisual.cpp in Sources */,
+				7F019028220C40B200888C41 /* mastermind.cpp in Sources */,
+				7F019029220C40B200888C41 /* tests.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -30,7 +30,7 @@ void swapNumbers(int& value1, int& value2) {
 void sortVector(vector<int>& liste) {
     for(int i = 1; i<liste.size(); ++i) {
         int j = i;
-        while((j > 0) && (liste[j-1] > liste[j])) {
+        while((j > 0) and (liste[j-1] > liste[j])) {
             swapNumbers(liste[j], liste[j-1]);
             j -= 1;
         }
@@ -59,7 +59,7 @@ string randomizeString(int length, int lowerBound, int upperBound) {
 }
 
 
-string readInputToString(int length, int lowerBound, int upperBound) {
+string reatInputToString(int length, int lowerBound, int upperBound) {
     string streng = "";
     std::cout << "Skriv inn en streng paa lengde: " << length << endl;
     string temp;
@@ -69,7 +69,7 @@ string readInputToString(int length, int lowerBound, int upperBound) {
         if (!isalpha(temp[i])) {
             break;
         }
-        if ((toupper(c) < 'A'+lowerBound-1) or (toupper(c) > 'A'+upperBound-1)) {
+        if (toupper(c) < lowerBound or toupper(c) > upperBound) {
             break;
         }
         while (streng.size() < length) {
@@ -80,7 +80,8 @@ string readInputToString(int length, int lowerBound, int upperBound) {
         return streng;
     }
     else {
-        return "Du skrev inn en ugyldig streng.";
+        std::cout << "Du skrev inn en ugyldig streng.";
+        return 0;
     }
 }
 

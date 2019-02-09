@@ -10,6 +10,7 @@
 		7C443F3821E28C3B001423DD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7C443F3721E28C3B001423DD /* main.cpp */; };
 		7C443F4021E28C4D001423DD /* std_lib_facilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C443F3F21E28C4D001423DD /* std_lib_facilities.framework */; };
 		7C443F4121E28C6D001423DD /* std_lib_facilities.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7C443F3F21E28C4D001423DD /* std_lib_facilities.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		7F01901C220C2BBD00888C41 /* mastermind.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F01901A220C2BBD00888C41 /* mastermind.cpp */; };
 		7F9DECCE2203B03A00468169 /* utilities.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F9DECCC2203B03A00468169 /* utilities.cpp */; };
 		7F9DECD12203B38C00468169 /* tests.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7F9DECCF2203B38C00468169 /* tests.cpp */; };
 /* End PBXBuildFile section */
@@ -31,6 +32,8 @@
 		7C443F3421E28C3B001423DD /* std_lib_facilities_mac */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = std_lib_facilities_mac; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C443F3721E28C3B001423DD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		7C443F3F21E28C4D001423DD /* std_lib_facilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = std_lib_facilities.framework; path = /Library/tdt4102/std_lib_facilities.framework; sourceTree = "<absolute>"; };
+		7F01901A220C2BBD00888C41 /* mastermind.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = mastermind.cpp; sourceTree = "<group>"; };
+		7F01901B220C2BBD00888C41 /* mastermind.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = mastermind.hpp; sourceTree = "<group>"; };
 		7F9DECCC2203B03A00468169 /* utilities.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = utilities.cpp; sourceTree = "<group>"; };
 		7F9DECCD2203B03A00468169 /* utilities.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = utilities.hpp; sourceTree = "<group>"; };
 		7F9DECCF2203B38C00468169 /* tests.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tests.cpp; sourceTree = "<group>"; };
@@ -74,6 +77,8 @@
 				7F9DECCD2203B03A00468169 /* utilities.hpp */,
 				7F9DECCF2203B38C00468169 /* tests.cpp */,
 				7F9DECD02203B38C00468169 /* tests.hpp */,
+				7F01901A220C2BBD00888C41 /* mastermind.cpp */,
+				7F01901B220C2BBD00888C41 /* mastermind.hpp */,
 			);
 			path = std_lib_facilities_mac;
 			sourceTree = "<group>";
@@ -145,6 +150,7 @@
 				7F9DECCE2203B03A00468169 /* utilities.cpp in Sources */,
 				7C443F3821E28C3B001423DD /* main.cpp in Sources */,
 				7F9DECD12203B38C00468169 /* tests.cpp in Sources */,
+				7F01901C220C2BBD00888C41 /* mastermind.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

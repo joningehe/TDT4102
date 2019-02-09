@@ -21,7 +21,7 @@ void sortVector(vector<int>& liste);
 double medianOfVector(vector<int> liste);
 
 string randomizeString(int length, int lowerBound, int upperBound);
-string readInputToString(int length, int lowerBound, int upperBound);
+string reatInputToString(int length, int lowerBound, int upperBound);
 
 int countChar(string streng, char kar);
 
